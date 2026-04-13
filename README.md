@@ -57,5 +57,8 @@ pip install PyQt6
 ```bash
 python main.py
 ```
-### 4. Головне вікно додатку
+### 4. Головні вікна додатку
 <img width="800" height="698" alt="image" src="https://github.com/user-attachments/assets/87d9d3bf-2ae7-466b-9437-db2cc4553e3a" />
+
+<img width="807" height="718" alt="image" src="https://github.com/user-attachments/assets/ec5fb354-88f9-41a4-b014-9611cbcbca49" />
+
